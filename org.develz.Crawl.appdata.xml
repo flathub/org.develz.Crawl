@@ -3,8 +3,7 @@
   <id>org.develz.Crawl.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
-  <name>crawl</name>
-  <summary>Dungeon Crawl Stone Soup</summary>
+  <name>Dungeon Crawl Stone Soup</name>
   <description>
     <p>
       A roguelike adventure through dungeons filled with dangerous monsters in
@@ -14,16 +13,16 @@
   <categories>
     <category>Game</category>
   </categories>
-  <url type="homepage">http://crawl.develz.org/</url>
-  <launchable type="desktop-id">crawl.desktop</launchable>
+  <url type="homepage">https://crawl.develz.org/</url>
+  <launchable type="desktop-id">org.develz.Crawl.desktop</launchable>
   <screenshots>
     <screenshot>
       <caption>The Dungeon</caption>
-      <image type="source">http://crawl.develz.org/wordpress/wp-content/uploads/2014/05/musu.png</image>
+      <image type="source">https://crawl.develz.org/wordpress/wp-content/uploads/2014/05/musu.png</image>
     </screenshot>
     <screenshot>
       <caption>Sigmund</caption>
-      <image type="source">http://crawl.develz.org/wordpress/wp-content/uploads/2014/05/meph.png</image>
+      <image type="source">https://crawl.develz.org/wordpress/wp-content/uploads/2014/05/meph.png</image>
     </screenshot>
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
