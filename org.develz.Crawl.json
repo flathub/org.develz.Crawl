@@ -27,6 +27,16 @@
                     "type": "file",
                     "path": "org.develz.Crawl.appdata.xml",
                     "dest-filename": "source/org.develz.Crawl.appdata.xml"
+                },
+                {
+                    "type": "file",
+                    "path": "crawl64.png",
+                    "dest-filename": "source/debian/crawl64.png"
+                },
+                {
+                    "type": "file",
+                    "path": "crawl128.png",
+                    "dest-filename": "source/debian/crawl128.png"
                 }
             ],
             "subdir": "source",
@@ -37,7 +47,9 @@
                 "install -D org.develz.Crawl.appdata.xml /app/share/appdata/org.develz.Crawl.appdata.xml",
                 "desktop-file-edit --set-key Exec --set-value /app/bin/crawl --set-key Icon --set-value org.develz.Crawl debian/crawl-tiles.desktop",
                 "install -D debian/crawl-tiles.desktop /app/share/applications/org.develz.Crawl.desktop",
-                "install -D debian/crawl.png /app/share/icons/hicolor/48x48/apps/org.develz.Crawl.png"
+                "install -D debian/crawl.png /app/share/icons/hicolor/48x48/apps/org.develz.Crawl.png",
+                "install -D debian/crawl64.png /app/share/icons/hicolor/64x64/apps/org.develz.Crawl.png",
+                "install -D debian/crawl128.png /app/share/icons/hicolor/128x128/apps/org.develz.Crawl.png"
             ]
         }
     ]
