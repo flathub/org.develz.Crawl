@@ -26,6 +26,16 @@
     </screenshot>
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
+  <releases>
+    <release version="0.21.0" date="2018-01-06">
+      <description>
+        We're pleased to announce the release of Dungeon Crawl Stone Soup 0.21:
+        "Gnoll Country for Old Jian"! 0.21 features a new species, a new god, a
+        new spell, and many significant updates and general improvements to the
+        game.
+      </description>
+    </release>
+  </releases>
   <content_rating type="oars-1.0">
     <content_attribute id="violence-cartoon">mild</content_attribute>
     <content_attribute id="violence-fantasy">none</content_attribute>
