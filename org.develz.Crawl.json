@@ -45,7 +45,7 @@
             "make-install-args": ["prefix=/app", "SAVEDIR=~/.crawl", "EXTERNAL_LDFLAGS=-L/app/lib", "TILES=y"],
             "post-install": [
                 "install -D org.develz.Crawl.appdata.xml /app/share/appdata/org.develz.Crawl.appdata.xml",
-                "desktop-file-edit --set-key Exec --set-value /app/bin/crawl --set-key Icon --set-value org.develz.Crawl debian/crawl-tiles.desktop",
+                "desktop-file-edit --set-key Name --set-value 'Dungeon Crawl Stone Soup' --set-key Exec --set-value /app/bin/crawl --set-key Icon --set-value org.develz.Crawl debian/crawl-tiles.desktop",
                 "install -D debian/crawl-tiles.desktop /app/share/applications/org.develz.Crawl.desktop",
                 "install -D debian/crawl.png /app/share/icons/hicolor/48x48/apps/org.develz.Crawl.png",
                 "install -D debian/crawl64.png /app/share/icons/hicolor/64x64/apps/org.develz.Crawl.png",
