@@ -27,6 +27,32 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.21.1" date="2018-02-03">
+      <description>
+        <p>Major bugfixes and updates:</p>
+        <ul>
+          <li>Dith shadow mimic of launcher attacks no longer copies the enchant and ego of the launcher.</li>
+          <li>Monsters lose constriction by Borgnjor's Vile Clutch when they are moved by any means.</li>
+          <li>Formicids can now manually cancel Dig status, allowing them to use Wu Jian's Wall Jump ability after digging.</li>
+          <li>Wu Jian's Wall Jump ability now works under silence.</li>
+          <li>New splash screen art by froggy.</li>
+          <li>Numlock on Windows systems no longer causes unpredictable repeating movement.</li>
+          <li>Alt-F4 no longer causes freezing in Tiles on Windows systems.</li>
+          <li>Resizing the local Tiles window during prompts no longer causes crashes.</li>
+          <li>SDL 2 contrib updated to 2.0.7, which fixes compilation under Msys2.</li>
+        </ul>
+        <p>
+          Dith shadow mimics of launcher attacks were giving you all free
+          enchantment and ego damage. That's simply unfair to those poor
+          dungeon monsters, so we had to fix it! The numlock key causing
+          repeating movement was reported by users far and wide, so many thanks
+          to advil for tracking down and fixing that rather difficult bug.
+          Hopefully you enjoy the new splash art by South Korean artist froggy,
+          whose inspirational depiction of Boris and Natasha is a personal
+          favorite.
+        </p>
+      </description>
+    </release>
     <release version="0.21.0" date="2018-01-06">
       <description>
         We're pleased to announce the release of Dungeon Crawl Stone Soup 0.21:
