@@ -41,8 +41,8 @@
             ],
             "subdir": "source",
             "no-autogen": true,
-            "make-args": ["prefix=/app", "SAVEDIR=~/.crawl", "EXTERNAL_LDFLAGS=-L/app/lib", "TILES=y"],
-            "make-install-args": ["prefix=/app", "SAVEDIR=~/.crawl", "EXTERNAL_LDFLAGS=-L/app/lib", "TILES=y"],
+            "make-args": ["debug", "prefix=/app", "DATADIR=share/crawl", "SAVEDIR=~/.crawl", "EXTERNAL_LDFLAGS=-L/app/lib", "TILES=y"],
+            "make-install-args": ["debug", "prefix=/app", "DATADIR=share/crawl", "SAVEDIR=~/.crawl", "EXTERNAL_LDFLAGS=-L/app/lib", "TILES=y"],
             "post-install": [
                 "install -D org.develz.Crawl.appdata.xml /app/share/appdata/org.develz.Crawl.appdata.xml",
                 "desktop-file-edit --set-key Name --set-value 'Dungeon Crawl Stone Soup' --set-key Exec --set-value /app/bin/crawl --set-key Icon --set-value org.develz.Crawl debian/crawl-tiles.desktop",
