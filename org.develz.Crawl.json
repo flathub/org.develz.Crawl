@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "http://crawl.develz.org/release/0.21/stone_soup-0.21.2.tar.xz",
-                    "sha256": "e20dd646708a961fbe47ccb2a7eb345db462749b5f2707c3be899ec87bb237f8"
+                    "url": "http://crawl.develz.org/release/0.22/stone_soup-0.22.1.tar.xz",
+                    "sha256": "49834a0fbfcba4953359c649fbe52f42b983f5c0cc5e9aa95c5e4066f1453c40"
                 },
                 {
                     "type": "file",
