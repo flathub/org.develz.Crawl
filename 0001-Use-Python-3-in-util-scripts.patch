@@ -1,0 +1,33 @@
+From 0f28f2f69329e46c699c40cc57adcd204f176dab Mon Sep 17 00:00:00 2001
+From: Guillaume Poirier-Morency <guillaumepoiriermorency@gmail.com>
+Date: Sat, 21 Mar 2020 11:20:30 -0700
+Subject: [PATCH] Use Python 3 in util scripts
+
+---
+ crawl-ref/source/util/species-gen.py | 2 +-
+ crawl-ref/source/util/txc            | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git crawl-ref/source/util/species-gen.py crawl-ref/source/util/species-gen.py
+index a4b103afc1..ec82da39eb 100755
+--- crawl-ref/source/util/species-gen.py
++++ crawl-ref/source/util/species-gen.py
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/env python3
+ 
+ from __future__ import print_function
+ 
+diff --git crawl-ref/source/util/txc crawl-ref/source/util/txc
+index df4c5a341c..1d396b4467 100755
+--- crawl-ref/source/util/txc
++++ crawl-ref/source/util/txc
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/env python3
+ # -*- coding: utf-8 -*-
+ 
+ import os, re, sys, codecs, difflib
+-- 
+2.26.0.rc2
+
