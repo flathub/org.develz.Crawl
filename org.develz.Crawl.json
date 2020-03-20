@@ -1,7 +1,7 @@
 {
     "app-id": "org.develz.Crawl",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "18.08",
+    "runtime-version": "19.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "crawl",
     "finish-args": [
@@ -13,7 +13,7 @@
         "--filesystem=~/.crawl:create"
     ],
     "modules": [
-        "shared-modules/glu/glu-9.0.0.json",
+        "shared-modules/glu/glu-9.json",
         {
             "name": "crawl",
             "buildsystem": "autotools",
