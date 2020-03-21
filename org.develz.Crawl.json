@@ -14,14 +14,19 @@
     ],
     "modules": [
         "shared-modules/glu/glu-9.json",
+        "python3-PyYAML.json",
         {
             "name": "crawl",
             "buildsystem": "autotools",
             "sources": [
                 {
                     "type": "archive",
-                    "url": "http://crawl.develz.org/release/0.22/stone_soup-0.22.1.tar.xz",
-                    "sha256": "49834a0fbfcba4953359c649fbe52f42b983f5c0cc5e9aa95c5e4066f1453c40"
+                    "url": "http://crawl.develz.org/release/0.24/stone_soup-0.24.0.tar.xz",
+                    "sha256": "eb069ae421d4246a3332d9081fb6e08b4bfaa71c407ffc17c194c5f9170d7561"
+                },
+                {
+                    "type": "patch",
+                    "path": "0001-Use-Python-3-in-util-scripts.patch"
                 },
                 {
                     "type": "file",
