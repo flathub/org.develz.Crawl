@@ -28,6 +28,54 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+      <release version="0.22.1" date="2018-09-18">
+        <description>
+          <p>
+            Major bug fixes and updates:
+          </p>
+          <ul>
+            <li>Support for distributing player ghosts files with releases. Now local games will have a starting set of ghosts available for ghost vaults.</li>
+            <li>New tiles for Azrael, shock serpents, dream sheep, mana vipers, and the Robe of Vines.</li>
+            <li>An additional set of Gnoll player doll tiles (male and female).</li>
+            <li>Fix WebTiles menus for older versions of Firefox.</li>
+            <li>81 bug fixes, adjustments, and cleanups in total.</li>
+          </ul>
+          <p>
+              The biggest game-play change in this release is the incorporation
+              of ghost data taken from 0.22 games played on the CAO and CBRO
+              servers for use in offline games. 0.22 introduced “permastore”
+              bones files so that ghost vaults always have an available ghost
+              definition to draw from. If a level has no recently made ghost in
+              the normal bones file, the permastore file provides more long-term
+              data that can be repeatedly drawn upon. The problem was that
+              offline games previously had no initial ghost data, forcing ghost
+              vaults to fall back on making clone ghosts of the player. Thanks
+              to work by advil, crawl can look for pre-existing permastore bones
+              files we ship in the game data, copying these over to use as a
+              player’s starting permastore. advil has curated this ghost data to
+              remove excessive numbers of ghosts from the most popular combos
+              and to filter out any offensive usernames. In the future, we’ll be
+              able to make this release ghost data using more servers and will
+              be improving the way the ghost data is handled and stored in
+              general. If you have previously installed 0.22.0, we recommend
+              that you remove any files named `*.store.*` from the bones
+              subdirectory of your saves folder, in order to get the full effect
+              of this change.
+          </p>
+          <p>
+            As usual, there are scores of smaller bug fixes, vault tweaks,
+            description updates, and the like, so be sure to upgrade! In the
+            bullet list above, I’ve linked a few new tiles we received for trunk
+            that I’ve also added to 0.22.1. Also, a certain worm tells me that
+            we may have a couple new splash screens coming our way. One will
+            depict the exploits of a Deep Dwarf Artificer and the other the
+            antics of uniques like Asterion and Louise (PlogChamp)! No ETA on
+            these new splash images, but look for them to arrive in trunk when
+            they’re ready.
+          </p>
+          <p>Happy Crawling!</p>
+        </description>
+      </release>
     <release version="0.21.1" date="2018-02-03">
       <description>
         <p>Major bugfixes and updates:</p>
