@@ -28,6 +28,7 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.24.0" date="2019-10-25"/>
     <release version="0.21.1" date="2018-02-03">
       <description>
         <p>Major bugfixes and updates:</p>
