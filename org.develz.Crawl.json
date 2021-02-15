@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/crawl/crawl/releases/download/0.25.1/stone_soup-0.25.1.zip",
-                    "sha256": "8492afdb2067f8a4253b9583ab57d85e74faa89a43abc3db987bda5e77aeb08b"
+                    "url": "https://github.com/crawl/crawl/releases/download/0.26.1/stone_soup-0.26.1.zip",
+                    "sha256": "755d46355fa3088b5d895968960aaf0e1e74c2c8fcbaee8ca7f3c4c2016594cb"
                 },
                 {
                     "type": "file",
