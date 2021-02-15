@@ -28,6 +28,7 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.26.1" date="2021-02-05"/>
     <release version="0.25.1" date="2020-07-17"/>
     <release version="0.24.0" date="2019-10-25"/>
     <release version="0.21.1" date="2018-02-03">
