@@ -27,17 +27,17 @@
                 {
                     "type": "file",
                     "path": "org.develz.Crawl.appdata.xml",
-                    "dest-filename": "source/org.develz.Crawl.appdata.xml"
+                    "dest": "source"
                 },
                 {
                     "type": "file",
                     "path": "crawl64.png",
-                    "dest-filename": "source/debian/crawl64.png"
+                    "dest": "source/debian"
                 },
                 {
                     "type": "file",
                     "path": "crawl128.png",
-                    "dest-filename": "source/debian/crawl128.png"
+                    "dest": "source/debian"
                 }
             ],
             "subdir": "source",
