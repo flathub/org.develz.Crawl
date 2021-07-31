@@ -28,6 +28,39 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.27.0" date="2021-07-30">
+      <description>
+        <p>
+          We are pleased to announce the release of Dungeon Crawl: Stone Soup
+          0.27 “The Cursed Flame”!
+        </p>
+        <p>
+          DCSS 0.27 features a new Djinni species that cast spells using HP, can
+          only learn new spells at random as they level up, and only use the
+          spellcasting skill to train magic. We’ve redesigned Ashenzari, who now
+          offers curses for your gear to gain piety and skill levels, at the
+          cost of destroying the item when the curse is removed.
+        </p>
+        <p>
+          A batch of new spells have been added, including Manifold Assault,
+          which attacks multiple foes at once with your melee, Storm Form, which
+          transforms you into a tempest with electrified, cleaving melee and the
+          ability to hurl yourself as lightning at foes, and Animate Armour,
+          which draws out the spirit of your armor to fight by your side. Polar
+          Vortex is a more damaging, ice-themed replacement for Tornado.
+          Maxwell’s Capacitive Coupling is a level 8 air-themed replacement for
+          Absolute Zero that vaporizes a nearby monster after a delay. Chain
+          Lightning has been reworked into a more powerful level 9 spell.
+        </p>
+        <p>
+          Spell books have many new types and generate more often, but contain
+          fewer spells. We’ve re-balanced branch monster sets and end maps, as
+          well as made new end maps for Lair, Shoals, and Snake. As always,
+          there are dozens of new deadly vaults, and many more changes small and
+          large alike!
+        </p>
+      </description>
+    </release>
     <release version="0.26.1" date="2021-02-05"/>
     <release version="0.25.1" date="2020-07-17"/>
     <release version="0.24.0" date="2019-10-25"/>
