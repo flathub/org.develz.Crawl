@@ -28,6 +28,23 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.27.1" date="2021-08-21">
+      <description>
+        <p>
+          We’ve uploaded the 0.27.1 bugfix release. Packages for Windows, MacOs,
+          and Linux are all available on the download page. Thanks to all the many
+          contributors who helped with this release, including patches and bug
+          reports!
+        </p>
+        <p>Highlights:</p>
+        <ul>
+          <li>The frequency of D:1 jackals is reduced.</li>
+          <li>Sigmund and Robin are nerfed gently.</li>
+          <li>Maxwell’s Capacitative Coupling now has LOS range.</li>
+          <li>80 other fixes, tweaks, copy-edits, and interface improvements.</li>
+        </ul>
+      </description>
+    </release>
     <release version="0.27.0" date="2021-07-30">
       <description>
         <p>
