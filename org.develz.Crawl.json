@@ -10,7 +10,8 @@
         "--socket=wayland",
         "--share=ipc",
         "--device=dri",
-        "--filesystem=~/.crawl:create"
+        "--filesystem=~/.crawl:create",
+        "--filesystem=~/.crawlrc:ro"
     ],
     "modules": [
         "shared-modules/glu/glu-9.json",
