@@ -28,6 +28,46 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.28.0" date="2022-02-04">
+      <p>
+        We are pleased to announce the release of Dungeon Crawl: Stone Soup 0.28
+        “The Rise and Fall of Ignis Zotdust and the Spiders from Hell”!
+      </p>
+      <p>
+        DCSS 0.28 features a new Cinder Acolyte zealot background that begins
+        the game worshiping a new god, Ignis, the Dying Flame. Cinder Acolytes
+        start with the new Scorch spell, a -1 flaming branded weapon of choice,
+        and five stars of piety. Ignis worshipers cannot gain piety, losing it
+        only when using Ignis’ abilities. The abilities are Fiery Armour, which
+        grants AC and retaliation flame damage, Foxfire Swarm, which summons
+        many foxfires, and Rising Flame, a one-time ability sends the player one
+        level above. Once all piety is spent, players will typically abandon for
+        another god, and Ignis dies forever when wrath is over.
+      </p>
+      <p>
+        The Hell branches have been revised to offer substantially more
+        challenge. Each branch features a distinct and persistent negative
+        effects that applies while in the branch along with timed effects common
+        to all Hells. The branches all have revised monster set with many new
+        monsters and smaller layouts for the first six levels, each of which has
+        only one downward staircase. The Spider branch has likewise been
+        retooled with a roster of new creepy-crawlies, new and revised end maps,
+        and updates to the existing layouts and vaults.
+      </p>
+      <p>
+        A new magical orb item type exists for the shield slot. Each orb type
+        grants an ego with a powerful passive effect, such as a 3-radius halo
+        or a reduction of monster willpower at the expense of your own. The
+        god Yredelemnul has been completely redesigned, granting passive
+        reaping and accepting the reaped zombies as payment for its dark
+        abilities. Okawaru and Jiyva have also seen significant, though not
+        quite as sweeping, changes.
+      </p>
+      <p>
+        A batch of new spells have been added, As always, there are dozens of
+        new deadly vaults, and many more changes small and large alike!
+      </p>
+    </release>
     <release version="0.27.1" date="2021-08-21">
       <description>
         <p>
