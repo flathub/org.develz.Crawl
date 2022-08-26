@@ -28,6 +28,40 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.29.0" date="2022-08-25">
+      <description>
+        <p>
+          We are pleased to announce the release of Dungeon Crawl: Stone Soup 0.29 “Shooting Stars”!
+        </p>
+        <p>
+          DCSS 0.29 features a sweeping rework of Necromancy, streamlining and upgrading many of its spells, 
+          along with similar improvements to the necromantic god Kikubaaqudgha. 
+          Ranged weapons have likewise been streamlined and reworked to be more satisfying to use.
+        </p>
+        <p>
+          For those seeking a special challenge, we’ve also added a new Meteoran species that heals when 
+          seeing new terrain and has great skills and attributes. However, Meteorans have to move fast, 
+          with only one-tenth the normal time per floor before they suffer heavy draining.
+        </p>
+        <p>
+          Many backgrounds now start with extra scrolls, potions, or other consumables, allowing more tactical 
+          options when faced with a sticky situation. Speaking of sticky situations, characters cast into 
+          the Abyss will find that monsters there once again give experience and piety, and an ultra-dangerous 
+          ‘deep abyss’ is now accessible…
+        </p>
+        <p>
+          Many new item types have been added, like scrolls of poison and wands of quicksilver. 
+          Some of these ‘alternate’, with only one type of item from a set being generated in any given game. 
+          We’ve also added many exciting new unique monsters, from Amaemon the Diabolical Poisoner to the alt-timeline 
+          troll Parghit the Mighty.
+        </p>
+        <p>
+          Launchers, long blades and short blades all now use dexterity instead of strength when calculating damage,
+          allowing new evasive playstyles. Monsters no longer gain and lose ‘random energy’, and can instead
+          launch opportunistic attacks on fleeing players. As always, there are many more changes small and large alike!
+        </p>
+      </description>
+    </release>
     <release version="0.28.0" date="2022-02-04">
       <description>
         <p>

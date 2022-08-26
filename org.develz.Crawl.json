@@ -26,8 +26,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/crawl/crawl/releases/download/0.28.0/stone_soup-0.28.0-nodeps.tar.xz",
-                    "sha256": "5a6be168f8888b84bdb199184ca20bd8636f77ba7e9e0124ebee8850092f2f47"
+                    "url": "https://github.com/crawl/crawl/releases/download/0.29.0/stone_soup-0.29.0-nodeps.tar.xz",
+                    "sha256": "b013f9b3bbee1f9e2113c20130a52097dbd9e83ce8e1060438bd3e83829fa9c4"
                 },
                 {
                     "type": "file",
