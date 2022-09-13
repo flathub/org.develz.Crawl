@@ -4,11 +4,23 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <name>Dungeon Crawl Stone Soup</name>
-  <summary>A roguelike adventure</summary>
+  <summary>Roguelike dungeon exploration game</summary>
+  <developer_name>The Dungeon Crawl Stone Soup Devteam</developer_name>
   <description>
     <p>
-      A roguelike adventure through dungeons filled with dangerous monsters in
-      a quest to find the mystifyingly fabulous Orb of Zot.
+      Crawl is a fun game in the grand tradition of similar games like Rogue,
+      Hack and Moria. The objective is to travel deep into a subterranean cave
+      complex and retrieve the Orb of Zot, guarded by many horrible and hideous
+      creatures.
+    </p>
+    <p>
+      If you have never played Crawl (or a similar game) before, select the
+      tutorial from the starting menu. The tutorial explains the interface in
+      five easy lessons. Once you're familiar with the controls, you may want to
+      play a few games using hints mode.
+    </p>
+    <p>
+      This is the Stone Soup version of Dungeon Crawl.
     </p>
   </description>
   <categories>
@@ -28,6 +40,17 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.29.1" date="2022-09-11">
+      <description>
+        <p>
+          Quick bugfix release after the tournament.
+        </p>
+        <ul>
+          <li>20+ bug and documentation fixes</li>
+          <li>Improvements to linux packaging support infrastructure</li>
+        </ul>
+      </description>
+    </release>
     <release version="0.29.0" date="2022-08-25">
       <description>
         <p>
