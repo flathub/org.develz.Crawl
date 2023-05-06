@@ -40,6 +40,70 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.30.0" date="2023-05-05">
+      <description>
+        <p>
+          We are pleased to announce the release of Dungeon Crawl: Stone Soup 0.30 “The Reavers Return”!
+        </p>
+        <p>
+          DCSS 0.30 features the return of the legendary Reaver background. These warrior-mages start
+          with two new powerful yet situational spells: Kiss of Death and Momentum Strike. They also
+          start with the Hailstorm spell, which has been moved down to level 3 yet can sometimes miss.
+        </p>
+        <p>
+          The new Armataur species replaces Palentongas, who have rolled peacefully off into the sunset.
+          Armataurs are large, scaly mammals that wear bardings, but instead of rolling and curling,
+          they have innate rampage and a long tongue mutation that doubles potion effects and slows down
+          scroll reading.
+        </p>
+        <p>
+          A grand total of 7 new spells have been added! Two we’ve already mentioned for Reaver, with
+          two more being likewise new designs and three replacing existing spells:
+        </p>
+        <ul>
+          <li>
+            Kiss of Death (L1 Conj/Necro): does high draining damage to an adjacent enemy, at the cost
+            of significant max HP drain to the caster.
+          </li>
+          <li>
+            Momentum Strike (L2 Conj/Tloc). Redirects the caster’s momentum for a damaging attack that
+            doesn’t require line of fire, but locks the caster in place for some turns after a hit (and
+            cannot be recast until this expires).
+          </li>
+          <li>
+            Cigotuvi’s Dreadful Rot (L2 Necro/Air/Pois). Rots away the caster’s flesh to create a cloud
+            of deadly miasma on their tile. Replaces Corpse Rot.
+          </li>
+          <li>
+            Volatile Blastmotes (L3 Fire/Tloc). Creates an explosive cloud on the caster’s tile, usable
+            as a land mine or tricky tool. Replaces Conjure Flame.
+          </li>
+          <li>
+            Vhi’s Electric Charge (L3 Tloc/Air). Launches the caster at a nearby foe and launches a
+            crackling melee attack, phasing through creatures en route.
+          </li>
+          <li>
+            Arcjolt (L5 Air/Conj). Electrocutes everything adjacent to the caster, everything adjacent
+            to those creatures, etc, etc, in a chain. Replaces Lightning Bolt.
+          </li>
+          <li>
+            Plasma Beam (L6 Fire/Air): Fires a bolt of lightning and another bolt of fire, both at the
+            most distant foe.
+          </li>
+        </ul>
+        <p>
+          We’ve added 6 new unrands and made changes to 11 existing ones. Additionally you can now find
+          randart orbs, scarves, and magical staves!
+        </p>
+        <p>
+          Finally, Lugonu has been mutated into a new form. Banishment is available at 2* piety (instead
+          of 3*) and mutates foes that resist getting banished. To encourage adventurers to abandon
+          their current god, Lugonu helpfully banishes some hostile monsters whenever other gods act
+          with their wrath. There are also now more Lugonu altars in the Abyss, and more piety is
+          awarded for conversions in the Abyss.
+        </p>
+      </description>
+    </release>
     <release version="0.29.1" date="2022-09-11">
       <description>
         <p>

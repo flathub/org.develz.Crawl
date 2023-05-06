@@ -23,8 +23,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/crawl/crawl/releases/download/0.29.1-debian/crawl_0.29.1.orig.tar.xz",
-                    "sha256": "b5032c96f27de202bf24e11361b8cf4509839821916804978892df1f29f95bd3"
+                    "url": "https://github.com/crawl/crawl/releases/download/0.30.0/stone_soup-0.30.0-nodeps.tar.xz",
+                    "sha256": "1d86fb1cc43c516a780d337a6f7dcfd3297737ae6b1245b4e0a15519e3f323ff"
                 },
                 {
                     "type": "file",
