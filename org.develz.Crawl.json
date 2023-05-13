@@ -39,6 +39,7 @@
                 "DATADIR=share/crawl",
                 "SAVEDIR=~/.crawl",
                 "EXTERNAL_LDFLAGS=-L/app/lib",
+                "EXTERNAL_DEFINES=-DVERSIONED_CACHE_DIR",
                 "TILES=y"
             ],
             "make-install-args": [
@@ -46,6 +47,7 @@
                 "DATADIR=share/crawl",
                 "SAVEDIR=~/.crawl",
                 "EXTERNAL_LDFLAGS=-L/app/lib",
+                "EXTERNAL_DEFINES=-DVERSIONED_CACHE_DIR",
                 "TILES=y",
                 "XDG_NAME=org.develz.Crawl",
                 "install-xdg-data"
