@@ -40,6 +40,17 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.30.1" date="2023-06-30">
+      <description>
+        <p>
+          Bugfix release.
+        </p>
+        <ul>
+          <li>Fix zooming on local tiles</li>
+          <li>Many other bug and documentation fixes</li>
+        </ul>
+      </description>
+    </release>
     <release version="0.30.0" date="2023-05-05">
       <description>
         <p>
