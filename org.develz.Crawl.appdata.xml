@@ -40,6 +40,36 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.31.0" date="2024-01-19">
+      <description>
+        <p>
+          We are pleased to announce the release of Dungeon Crawl: Stone Soup 0.31 “The Alchemy of Forms”!
+        </p>
+        <p>
+          DCSS 0.31 features some major spell school and starting background changes, a variety of new
+          spells, many dangerous new monsters, and some major species changes.
+        </p>
+        <p>
+          The Transmutations forms spells have been moved into talisman items, which allow permanently
+          shifting into forms based on the new Shapeshifting skill. The remaining Transmutations spells
+          and the Poison Magic spells have been merged into a new Alchemy school. The Shapeshifter and
+          Alchemist starting backgrounds replace Transmuter and Venom Mage, respectively. To support
+          these changes, this release adds 4 new spells, sees 7 spells reworked into improved
+          replacements, and has many tweaks to the levels and schools.
+        </p>
+        <p>
+          The new Oni species replaces Ogres. Oni love a good drunken brawl, gaining double effect when
+          drinking any potion that restore HP or MP, and also perform an immediate cleaving melee attack.
+          They are otherwise similar to Ogres, but also have horns and some increased apts. Starting at
+          XL 7, Armataurs now regenerate HP and MP while rampaging. They also lose their double potion
+          effect, and no longer read scrolls slowly. Felids now have an extra life at XL 1 and don’t lose
+          XLs when dying. Tengu have an inherent acrobat effect (like the amulet) at XL 1, and gain 4 EV
+          at XL 7 instead of gaining an EV bonus and fast movement. Humans gain the exploration healing
+          effect formerly found on Meteorans, which are no more. Instead, players of any species can now
+          rush to find gems stashed at the end of many branches as achievement items.
+        </p>
+      </description>
+    </release>
     <release version="0.30.1" date="2023-06-30">
       <description>
         <p>
