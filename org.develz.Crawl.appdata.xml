@@ -5,7 +5,9 @@
   <project_license>GPL-2.0</project_license>
   <name>Dungeon Crawl Stone Soup</name>
   <summary>Roguelike dungeon exploration game</summary>
-  <developer_name>The Dungeon Crawl Stone Soup Devteam</developer_name>
+  <developer id="org.develz.crawl">
+    <name>The Dungeon Crawl Stone Soup Devteam</name>
+  </developer>
   <description>
     <p>
       Crawl is a fun game in the grand tradition of similar games like Rogue,
@@ -29,7 +31,7 @@
   <url type="homepage">https://crawl.develz.org/</url>
   <launchable type="desktop-id">org.develz.Crawl.desktop</launchable>
   <screenshots>
-    <screenshot>
+    <screenshot type="default">
       <caption>The Dungeon</caption>
       <image type="source">https://crawl.develz.org/wordpress/wp-content/uploads/2014/05/musu.png</image>
     </screenshot>
@@ -40,6 +42,24 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.32.0" date="2024-08-29">
+      <description>
+        <p>
+          We are pleased to announce the release of Dungeon Crawl: Stone Soup 0.32 “Gods and Makers”!
+        </p>
+        <p>
+          DCSS 0.32 features redesigns of four gods, two new playable species, eleven new spells, many
+          new and revamped monsters, as well as new decorations throughout the Dungeon!
+        </p>
+        <ul>
+          <li>Beogh, Dithmenos, Yredelemnul, and Makhleb have been substantially revamped.</li>
+          <li>Since everybody can become orcs, reworked Mountain Dwarves replace Hill Orcs.</li>
+          <li>New species: Coglins, dual-wielding gizmo-inventing goblins in exosuits.</li>
+          <li>More new spells, aimed at new school combinations and higher levels.</li>
+          <li>Many more new and revamped monsters and decorations throughout the Dungeon.</li>
+        </ul>
+      </description>
+    </release>
     <release version="0.31.0" date="2024-01-19">
       <description>
         <p>
