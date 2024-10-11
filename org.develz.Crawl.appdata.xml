@@ -42,6 +42,17 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.32.1" date="2024-09-25">
+      <description>
+        <p>
+          Bugfix release.
+        </p>
+        <ul>
+          <li>Fix blockable beam attacks from monster spells being blocked 100% of the time.</li>
+          <li>40 other bug fixes, interface improvements, and documentation updates.</li>
+        </ul>
+      </description>
+    </release>
     <release version="0.32.0" date="2024-08-29">
       <description>
         <p>
