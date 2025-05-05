@@ -42,6 +42,24 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.33.0" date="2025-05-02">
+      <description>
+        <p>
+          We are pleased to announce the release of Dungeon Crawl Stone Soup: 0.33 “Reforge Yourself”!
+        </p>
+        <p>
+          DCSS 0.33 features a new magic school, two new playable species, twelve new talisman items,
+          a new portal level, and many new and revamped monsters!
+        </p>
+        <ul>
+          <li>New magic school + background: Forgewrights, building explosive constructs.</li>
+          <li>Two new species: Poltergeists and Revenants.</li>
+          <li>Twelve new talismans have been added, and Shapeshifters have been reworked.</li>
+          <li>Ghost vaults are moved into a game-long repeating portal, the Necropolis.</li>
+          <li>Yet more new monsters, decorations, and traps spread throughout the Dungeon.</li>
+        </ul>
+      </description>
+    </release>
     <release version="0.32.1" date="2024-09-25">
       <description>
         <p>
