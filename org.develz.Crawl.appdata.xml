@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>org.develz.Crawl.desktop</id>
+  <id>org.develz.Crawl</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <name>Dungeon Crawl Stone Soup</name>
@@ -42,6 +42,39 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.33.1" date="2025-06-06">
+      <description>
+        <p>
+          Bugfix release.
+        </p>
+        <ul>
+          <li>Fix vampire form not having torment resistance.</li>
+          <li>Fix bat swarm form having torment immunity instead of torment resistance.</li>
+          <li>Fix breaking cursed items without a prompt when leaving slot-granting forms.</li>
+          <li>
+            Fix sphinx and serpent forms having slot items fall off when changing
+            temporarily to another form via lignification or polymorph.
+          </li>
+          <li>
+            Fix Dithmenos' player shadow not having the same reach as the player when in
+            aqua form.
+          </li>
+          <li>Fix inconsistencies in handling of beam types.</li>
+          <li>
+            The Slick Slippers now prevent being bound by an ironbound beastmaster's
+            bolas.
+          </li>
+          <li>
+            Fix not being able to use Yredelemnul's Light the Black Torch on a
+            portal level like Necropolis if it had been used in a previous instance of
+            that portal.
+          </li>
+          <li>Don't allow orbrun spawns in Okawaru's Arena.</li>
+          <li>Remove erroneous extra placements of alderkings in Sprint IV.</li>
+          <li>37 other bug fixes, interface improvements, and documentation updates.</li>
+        </ul>
+      </description>
+    </release>
     <release version="0.33.0" date="2025-05-02">
       <description>
         <p>
