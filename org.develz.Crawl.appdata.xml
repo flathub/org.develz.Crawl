@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>org.develz.Crawl.desktop</id>
+  <id>org.develz.Crawl</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <name>Dungeon Crawl Stone Soup</name>
@@ -59,22 +59,7 @@
             Fix Dithmenos' player shadow not having the same reach as the player when in
             aqua form.
           </li>
-          <li>
-            Fix inconsistencies in handling of beam types:
-            <ul>
-              <li>
-                The spells Chain Lightning and Stunning Bolt are now properly 33%
-                resistable with rElec instead of only 25% resistable.
-              </li>
-              <li>Mercury Arrow is now properly 25% resistable with rPois.</li>
-              <li>Stunning Bolt now checks half of AC like other elecriticy-themed spells.</li>
-              <li>Qazlal's adaptive rElec is now properly triggered by Stunning Bolt.</li>
-              <li>
-                Qazlal's adaptive AC is now properly triggered by all 'physical' spell
-                projectiles.
-              </li>
-            </ul>
-          </li>
+          <li>Fix inconsistencies in handling of beam types.</li>
           <li>
             The Slick Slippers now prevent being bound by an ironbound beastmaster's
             bolas.
