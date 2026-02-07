@@ -42,6 +42,23 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.34.0" date="2026-02-05">
+      <description>
+        <p>
+          We are pleased to announce the release of Dungeon Crawl Stone Soup: 0.34 “Doomed Geometries”!
+        </p>
+        <p>
+          DCSS 0.34 features:
+        </p>
+        <ul>
+          <li>Many new egos for weapons, armour, amulets, and orbs.</li>
+          <li>Big overhauls to strategic damage with a new doom system and a reduction of player mutation.</li>
+          <li>Unlimited player inventory for consumables.</li>
+          <li>Major updates to Troves, the Slime Pits, and the Halls of Zot.</li>
+          <li>Dozens of new monsters spread throughout the dungeon!</li>
+        </ul>
+      </description>
+    </release>
     <release version="0.33.1" date="2025-06-06">
       <description>
         <p>
@@ -395,10 +412,12 @@
     </release>
     <release version="0.21.0" date="2018-01-06">
       <description>
-        We're pleased to announce the release of Dungeon Crawl Stone Soup 0.21:
-        "Gnoll Country for Old Jian"! 0.21 features a new species, a new god, a
-        new spell, and many significant updates and general improvements to the
-        game.
+        <p>
+          We're pleased to announce the release of Dungeon Crawl Stone Soup 0.21:
+          "Gnoll Country for Old Jian"! 0.21 features a new species, a new god, a
+          new spell, and many significant updates and general improvements to the
+          game.
+        </p>
       </description>
     </release>
   </releases>
