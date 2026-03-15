@@ -42,6 +42,37 @@
   </screenshots>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
   <releases>
+    <release version="0.34.1" date="2026-05-31">
+      <description>
+        <p>
+          We are pleased to announce the Dungeon Crawl Stone Soup 0.34.1 bugfix
+          release.
+        </p>
+        <p>
+          DCSS 0.34.1 features the following fixes:
+        </p>
+        <ul>
+          <li>Fix the Lua error handler causing slowdowns seen in vaults like Pan’s Disco Hall.</li>
+          <li>Properly mark unidentified talismans evil/chaotic as appropriate.</li>
+          <li>Allow deconstructing forgecraft allies while wielding a ranged weapon.</li>
+          <li>Fix Freezing Cloud not having a self-damage warning prompt.</li>
+          <li>Fix the force_more prompts for dancing weapons of distortion.</li>
+          <li>Fix banished Orb Guardians not activating the Boundless Tesseracts.</li>
+          <li>Fix Duel/Banishment on top of a portal entrance expiring that entrance.</li>
+          <li>Prompt for wearing any talisman that would lower max HP by more than 10%.</li>
+          <li>Fix randart Bane scarves having hidden AC (Back-form)</li>
+          <li>Fix Revenant spells being free and boosted by Enkindle if cast via Sif Muna’s Divine Exegesis.</li>
+          <li>Fix removing Fragile equipment not triggering unequip effects before being destroyed.</li>
+          <li>Don’t have Dithmenos’ Marionette treat monsters it charms as hostile for subsequent actions.</li>
+          <li>Fix Dominate Undead not working properly for friendly casters.</li>
+          <li>Fix the force_scroll_targeter option interfering with ability targeters.</li>
+          <li>Fix anacondas taking no damage from cactus giant spines.</li>
+          <li>A new clua function you.zot_orb_monster() to see the type of orb monster the player will face in Zot, if known.</li>
+          <li>New clua functions for checking visibility between cells: view.cell_see_cell_no_trans(), view.cell_see_cell_solid(), and view.cell_see_cell_solid_see().</li>
+          <li>36 other bug fixes, interface improvements, and documentation updates.</li>
+        </ul>
+    </description>
+    </release>
     <release version="0.34.0" date="2026-02-05">
       <description>
         <p>
