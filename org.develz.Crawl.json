@@ -21,18 +21,6 @@
         {
             "name": "crawl",
             "buildsystem": "autotools",
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://github.com/crawl/crawl/releases/download/0.34.1/stone_soup-0.34.1-nodeps.tar.xz",
-                    "sha256": "360b5ac25913d20cd3df6c98a4a41280f3ba07e8742281a7b22341017802f3a2"
-                },
-                {
-                    "type": "file",
-                    "path": "org.develz.Crawl.appdata.xml",
-                    "dest": "source"
-                }
-            ],
             "subdir": "source",
             "no-autogen": true,
             "make-args": [
@@ -57,6 +45,18 @@
                 "rm -rf /app/share/metainfo",
                 "install -D org.develz.Crawl.appdata.xml /app/share/appdata/org.develz.Crawl.appdata.xml",
                 "sed -i 's/ (.*)//g' /app/share/applications/org.develz.Crawl.desktop"
+            ],
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://github.com/crawl/crawl/releases/download/0.34.1/stone_soup-0.34.1-nodeps.tar.xz",
+                    "sha256": "360b5ac25913d20cd3df6c98a4a41280f3ba07e8742281a7b22341017802f3a2"
+                },
+                {
+                    "type": "file",
+                    "path": "org.develz.Crawl.appdata.xml",
+                    "dest": "source"
+                }
             ]
         }
     ]
