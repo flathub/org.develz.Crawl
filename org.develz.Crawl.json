@@ -16,6 +16,7 @@
     "modules": [
         "shared-modules/glu/glu-9.json",
         "shared-modules/lua5.4/lua-5.4.json",
+        "shared-modules/SDL2/SDL2_image.json",
         "python3-PyYAML.json",
         {
             "name": "crawl",
