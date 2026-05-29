@@ -53,6 +53,10 @@
                     "sha256": "360b5ac25913d20cd3df6c98a4a41280f3ba07e8742281a7b22341017802f3a2"
                 },
                 {
+                    "type": "patch",
+                    "path": "fix-build-errors.patch"
+                },
+                {
                     "type": "file",
                     "path": "org.develz.Crawl.appdata.xml",
                     "dest": "source"
